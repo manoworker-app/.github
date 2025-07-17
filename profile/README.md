@@ -25,7 +25,7 @@ We partner with nonprofit organizations, workforce centers, and advocacy groups 
 ## Learn More
 
 - Website: [https://joinmano.com](https://joinmano.com)
-- Contact: [partners@gomano.org](mailto:partners@gomano.org)
+- Contact: [partners@joinmano.com](mailto:partners@joinmano.com)
 - [Book a Call](https://calendly.com/hello-joinmano/30min)
   
 ---
