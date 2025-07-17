@@ -26,7 +26,8 @@ We partner with nonprofit organizations, workforce centers, and advocacy groups 
 
 - Website: [https://joinmano.com](https://joinmano.com)
 - Contact: [partners@gomano.org](mailto:partners@gomano.org)
-
+- [Book a Call](https://calendly.com/hello-joinmano/30min)
+  
 ---
 
 *Mano is built by and for workers. We believe informal labor should be visible, respected, and safe — one job, one community, one block at a time.*
