@@ -13,7 +13,7 @@ We partner with nonprofit organizations, workforce centers, and advocacy groups 
 - **Instant job creation and sharing** via app, SMS, or WhatsApp
 - **Optional verification** for workers and employers
 - **Multilingual, mobile-first design** for accessibility
-- **No cut from worker pay** — employers cover platform fees
+- **No cut from worker pay** as employers cover platform fees
 
 ## Our Repositories
 
@@ -30,4 +30,4 @@ We partner with nonprofit organizations, workforce centers, and advocacy groups 
   
 ---
 
-*Mano is built by and for workers. We believe informal labor should be visible, respected, and safe — one job, one community, one block at a time.*
+*Mano is built by and for workers. We believe informal labor should be visible, respected, and safe. We’re starting with one job, one community, one block at a time.*
