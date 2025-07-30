@@ -9,7 +9,7 @@ We partner with nonprofit organizations, workforce centers, and advocacy groups 
 ## What Mano Offers
 
 - **Virtual check-in zones** ("digital parking lots") for worker visibility
-- **Escrow-secured job postings** to help prevent wage theft
+- **Secure pre-authorized job postings** to help prevent wage theft
 - **Instant job creation and sharing** via app, SMS, or WhatsApp
 - **Optional verification** for workers and employers
 - **Multilingual, mobile-first design** for accessibility
